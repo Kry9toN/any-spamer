@@ -10,7 +10,7 @@ def spam():
 
 if __name__ == "__main__":
     print('Spam starting in 10 sec')
-    print('Now open apps like WA/IG on browser now')
+    print('Now open apps like WA/IG on browser..!!')
     time.sleep(10)
     print('Spamming....')
     spam()
